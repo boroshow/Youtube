@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="middle_margin">16dp</dimen>
+    <dimen name="little_size">12sp</dimen>
+    <dimen name="little_margin">8dp</dimen>
+    <dimen name="middle_size">16sp</dimen>
+    <dimen name="or_size">24sp</dimen>
+    <dimen name="heavy_margin">32dp</dimen>
+    <dimen name="nine_dp">9dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
